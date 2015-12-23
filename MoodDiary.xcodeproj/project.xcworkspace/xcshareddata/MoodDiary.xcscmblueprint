@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EB7B6911BD0BEE1D50A7FEE958D95196E3831B50+++82801B3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A8678A845E136192C73F9AC5DE0C950577F112AF+++339C0C4" : 0,
+    "A8678A845E136192C73F9AC5DE0C950577F112AF+++A223BEF" : 0,
+    "EB7B6911BD0BEE1D50A7FEE958D95196E3831B50+++82801B3" : 0,
+    "EB7B6911BD0BEE1D50A7FEE958D95196E3831B50+++84143AC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "86F14CBC-3C55-4B3A-9120-2269D623FA67",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A8678A845E136192C73F9AC5DE0C950577F112AF+++339C0C4" : "..\/..\/..",
+    "A8678A845E136192C73F9AC5DE0C950577F112AF+++A223BEF" : "",
+    "EB7B6911BD0BEE1D50A7FEE958D95196E3831B50+++82801B3" : "MoodDiary",
+    "EB7B6911BD0BEE1D50A7FEE958D95196E3831B50+++84143AC" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MoodDiary",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MoodDiary.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MoodGroupIOSHUST\/Mood626.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8678A845E136192C73F9AC5DE0C950577F112AF+++339C0C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MoodGroupIOSHUST\/Mood626.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8678A845E136192C73F9AC5DE0C950577F112AF+++A223BEF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MoodGroupIOSHUST\/MoodDiary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB7B6911BD0BEE1D50A7FEE958D95196E3831B50+++82801B3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MoodGroupIOSHUST\/MoodDiary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB7B6911BD0BEE1D50A7FEE958D95196E3831B50+++84143AC"
+    }
+  ]
+}

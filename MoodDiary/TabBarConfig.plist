@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>心情墙</string>
+		<key>img_selected</key>
+		<string>diary_selected</string>
+		<key>img_nomal</key>
+		<string>diary</string>
+		<key>controller</key>
+		<string>WallVC</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>测评</string>
+		<key>img_selected</key>
+		<string>home_selected</string>
+		<key>img_nomal</key>
+		<string>home</string>
+		<key>controller</key>
+		<string>FirstpageVC</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>阅读</string>
+		<key>img_selected</key>
+		<string>article_selected</string>
+		<key>img_nomal</key>
+		<string>article</string>
+		<key>controller</key>
+		<string>PaperVC</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>更多</string>
+		<key>img_selected</key>
+		<string>mine_selected</string>
+		<key>img_nomal</key>
+		<string>mine</string>
+		<key>controller</key>
+		<string>MyVC</string>
+	</dict>
+</array>
+</plist>

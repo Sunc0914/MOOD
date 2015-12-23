@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>86F14CBC-3C55-4B3A-9120-2269D623FA67</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MoodDiary</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A8678A845E136192C73F9AC5DE0C950577F112AF</key>
+		<string>https://github.com/MoodGroupIOSHUST/Mood626.git</string>
+		<key>EB7B6911BD0BEE1D50A7FEE958D95196E3831B50</key>
+		<string>https://github.com/MoodGroupIOSHUST/MoodDiary.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MoodDiary.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A8678A845E136192C73F9AC5DE0C950577F112AF</key>
+		<string>../../..</string>
+		<key>EB7B6911BD0BEE1D50A7FEE958D95196E3831B50</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MoodGroupIOSHUST/MoodDiary.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB7B6911BD0BEE1D50A7FEE958D95196E3831B50</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A8678A845E136192C73F9AC5DE0C950577F112AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB7B6911BD0BEE1D50A7FEE958D95196E3831B50</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB7B6911BD0BEE1D50A7FEE958D95196E3831B50</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MoodDiary</string>
+		</dict>
+	</array>
+</dict>
+</plist>
